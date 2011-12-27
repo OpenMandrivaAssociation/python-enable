@@ -1,6 +1,6 @@
 %define module	enable
 %define name	python-%{module}
-%define version	4.0.0
+%define version	4.1.0
 %define release %mkrel 1
 
 Summary:	Enthought Tool Suite - enable project
@@ -15,8 +15,8 @@ BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 Obsoletes:	python-enthought-enable
 Requires:	python-numpy >= 1.1.0
 Requires: 	python-reportlab, python-opengl
-Requires:	python-pyface >= 4.0.0
-Requires:	python-traitsui >= 4.0.0
+Requires:	python-pyface >= 4.1.0
+Requires:	python-traitsui >= 4.1.0
 BuildRequires:	python-setuptools >= 0.6c8
 BuildRequires:	swig >= 1.3.30, python-cython >= 0.13
 BuildRequires:	python-numpy-devel >= 1.1.0
