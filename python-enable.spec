@@ -25,7 +25,8 @@ Requires:	python-traitsui >= 4.2.0
 BuildRequires:	python-setuptools >= 0.6c8
 BuildRequires:	swig >= 1.3.30, python-cython >= 0.13
 BuildRequires:	python-numpy-devel >= 1.1.0
-BuildRequires:	freetype-devel, libx11-devel, MesaGL-devel, MesaGLU-devel
+BuildRequires:	freetype-devel, libx11-devel, 
+BuildRequires:	mesagl-devel, mesaglu-devel
 BuildRequires:	python-setupdocs >= 1.0.5
 BuildRequires:	python-sphinx
 
