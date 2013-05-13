@@ -3,7 +3,7 @@
 Summary:	Enthought Tool Suite - low-level drawing and interaction
 Name:		python-%{module}
 Version:	4.2.0
-Release:	2
+Release:	3
 Source0:	http://www.enthought.com/repo/ets/%{module}-%{version}.tar.gz
 License:	BSD
 Group:		Development/Python
