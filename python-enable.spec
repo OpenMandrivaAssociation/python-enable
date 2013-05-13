@@ -18,7 +18,7 @@ BuildRequires:	swig >= 1.3.30
 BuildRequires:	python-cython >= 0.13
 BuildRequires:	python-numpy-devel >= 1.1.0
 BuildRequires:	freetype-devel
-BuildRequires:	libx11-devel
+BuildRequires:	pkgconfig(x11)
 BuildRequires:	mesagl-devel
 BuildRequires:	mesaglu-devel
 BuildRequires:	python-setupdocs >= 1.0.5
