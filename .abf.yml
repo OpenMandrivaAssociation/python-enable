@@ -1,2 +1,4 @@
+removed_sources:
+  enable-4.2.0.tar.gz: 49e37efaac393c1c4ec098d37c7c0a5d87c1e936
 sources:
-  "enable-4.2.0.tar.gz": 49e37efaac393c1c4ec098d37c7c0a5d87c1e936
+  enable-4.3.0.tar.gz: 6a16d190fa0b82a1efb00f61f1e5dd483596ae81
